@@ -1,0 +1,11 @@
+/*書式のリセット*/
+*{
+  box-sizing: border-box;
+  margin :0px;
+  padding: 0px;
+}
+
+header{
+  height: 50px;
+  background-color: #ff9A4B;
+}
