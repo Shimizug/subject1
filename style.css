@@ -43,7 +43,7 @@ main {
 
 .step-img3 {
   height: 150px;
-  background-image: url(img/flow03.png);
+  background-image: url(imgflow03.png);
   background-position: bottom;
   background-size: cover;
 }
