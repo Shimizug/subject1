@@ -66,20 +66,24 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  html{
+  body{
     width: 100%;
   }
   
   main{
-    width: 100%;
+    width: 90%;
     display: block;
     justify-content: center;
     align-items: center;
   }
 
   .step-box{
-    margin: 20px;
+    margin: 20px 0;
     width: auto;
+  }
+  
+  .step-box:first-child{
+    margin-top: 0;
   }
 
 .step-box:last-child{
